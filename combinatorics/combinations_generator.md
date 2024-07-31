@@ -24,7 +24,7 @@ date: 2024-07-31
 
 ### Код на Python
 
-ссылка на репозиторий [ссылка]()
+ссылка на репозиторий [ссылка](https://github.com/medphisiker/python_algo/blob/main/combinatorics/combinations_generator.py)
 
 ```python
 def next_combination(combination):
