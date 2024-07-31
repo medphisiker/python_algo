@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-algo"
+version = "0.0.1"
+description = "Contains educational implementations of algorithms in Python."
+authors = ["Anton Shiryaev <shiryaev_anton@cashalot.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
